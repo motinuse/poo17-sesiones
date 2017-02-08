@@ -29,7 +29,7 @@ public class Fabricadevideojuegos {
     
     public void planificacion ()
     {
-        System.out.println("ideando estrategia de venta");
+        System.out.println("ideando estrategia de venta")lalalaal;
     }
     
     public void produccion ()
